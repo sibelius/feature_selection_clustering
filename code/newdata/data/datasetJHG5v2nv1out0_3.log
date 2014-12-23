@@ -1,0 +1,245 @@
+
+ Log information for the data set datasetJHG5v2nv1out0_3.dat >>
+
+ alpha = 0.05 sepVal = 0.34
+
+ Number of clusters >> 5
+
+ cluster sizes >>
+50 50 50 50 50
+
+ Number of data points >> 250
+
+ Number of dimensions >> 3
+
+ Number of noisy dimensions >> 1
+
+ noisy variables >>
+3
+
+ Number of outliers >> 0
+
+ initial eigenvalues for each cluster >> 
+ (rows correspond to clusters)
+2.6 9.179
+1.508 3.022
+8.91 4.589
+8.622 3.255
+4.14 6.736
+
+ Mean vectors and covariance matrices before rotation --- 1th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+-10.932 0 8.622
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+2.637 -0.494 0
+-0.494 9.142 0
+0 0 244.974
+
+ Mean vectors and covariance matrices before rotation --- 2th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+10.932 0 8.622
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+7.251 -2.57 0
+-2.57 9.161 0
+0 0 244.974
+
+ Mean vectors and covariance matrices before rotation --- 3th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+0 18.935 8.622
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+6.82 2.159 0
+2.159 6.679 0
+0 0 244.974
+
+ Mean vectors and covariance matrices before rotation --- 4th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+32.796 0 8.622
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+7.901 3.762 0
+3.762 15.02 0
+0 0 244.974
+
+ Mean vectors and covariance matrices before rotation --- 5th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+21.864 18.935 8.622
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+7.876 -0.233 0
+-0.233 4.87 0
+0 0 244.974
+
+ Final eigenvalues for each cluster >> 
+ (rows correspond to clusters)
+244.974 9.179 2.6
+244.974 10.948 5.465
+244.974 8.91 4.589
+244.974 16.64 6.282
+244.974 7.894 4.852
+
+ *************************************************
+
+ ********************* rotation ******************
+
+ *************************************************
+
+
+ The orthogonal matrix Q >>
+0.984 0.181
+0.181 -0.984
+
+ Mean vectors and covariance matrices after rotation --- 1th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+-10.752 -1.975 8.622
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+2.674 -0.694 0
+-0.694 9.105 0
+0 0 244.974
+
+ Mean vectors and covariance matrices after rotation --- 2th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+10.752 1.975 8.622
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+6.401 2.063 0
+2.063 10.012 0
+0 0 244.974
+
+ Mean vectors and covariance matrices after rotation --- 3th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+3.42 -18.623 8.622
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+7.582 -1.994 0
+-1.994 5.916 0
+0 0 244.974
+
+ Mean vectors and covariance matrices after rotation --- 4th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+32.257 5.924 8.622
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+9.47 -4.781 0
+-4.781 13.452 0
+0 0 244.974
+
+ Mean vectors and covariance matrices after rotation --- 5th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+24.925 -14.674 8.622
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+7.695 0.752 0
+0.752 5.051 0
+0 0 244.974
+
+ Final eigenvalues for each cluster >> 
+ (rows correspond to clusters)
+244.974 9.179 2.6
+244.974 10.948 5.465
+244.974 8.91 4.589
+244.974 16.64 6.282
+244.974 7.894 4.852
+
+ theoretical Separation index matrix >>
+
+-1 0.45 0.34 0.672 0.62
+0.45 -1 0.34 0.34 0.393
+0.34 0.34 -1 0.605 0.352
+0.672 0.34 0.605 -1 0.34
+0.62 0.393 0.352 0.34 -1
+
+ theoretical projection directions >>
+
+**** cluster 1 and 2
+0.999 0.041 0
+
+**** cluster 1 and 3
+0.816 -0.579 0
+
+**** cluster 1 and 4
+0.961 0.277 0
+
+**** cluster 1 and 5
+0.979 -0.204 0
+
+**** cluster 2 and 3
+-0.39 -0.921 0
+
+**** cluster 2 and 4
+0.974 0.228 0
+
+**** cluster 2 and 5
+0.684 -0.73 0
+
+**** cluster 3 and 4
+0.759 0.651 0
+
+**** cluster 3 and 5
+0.937 0.351 0
+
+**** cluster 4 and 5
+-0.478 -0.878 0
+
+ empirical Separation index matrix (alpha= 0.05 )>>
+
+-1 0.607 0.34 0.65 0.327
+0.607 -1 0.349 0.33 0.318
+0.34 0.349 -1 0.442 0.476
+0.65 0.33 0.442 -1 0.625
+0.327 0.318 0.476 0.625 -1
+
+ empirical projection directions >>
+
+**** cluster 1 and 2
+-0.713 -0.701 0.004
+
+**** cluster 1 and 3
+-0.967 -0.253 -0.024
+
+**** cluster 1 and 4
+-0.933 -0.361 0.006
+
+**** cluster 1 and 5
+-0.514 -0.858 0.012
+
+**** cluster 2 and 3
+0.309 0.951 0.023
+
+**** cluster 2 and 4
+-0.722 0.692 -0.002
+
+**** cluster 2 and 5
+0.93 0.367 -0.014
+
+**** cluster 3 and 4
+-0.999 0.033 0.002
+
+**** cluster 3 and 5
+0.704 -0.71 -0.019
+
+**** cluster 4 and 5
+0.946 -0.325 -0.009

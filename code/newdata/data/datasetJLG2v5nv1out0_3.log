@@ -1,0 +1,125 @@
+
+ Log information for the data set datasetJLG2v5nv1out0_3.dat >>
+
+ alpha = 0.05 sepVal = 0.01
+
+ Number of clusters >> 2
+
+ cluster sizes >>
+50 50
+
+ Number of data points >> 100
+
+ Number of dimensions >> 6
+
+ Number of noisy dimensions >> 1
+
+ noisy variables >>
+2
+
+ Number of outliers >> 0
+
+ initial eigenvalues for each cluster >> 
+ (rows correspond to clusters)
+4.082 7.222 2.433 4.431 5.572
+5.627 2.259 3.059 8.496 7.141
+
+ Mean vectors and covariance matrices before rotation --- 1th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+-4.397 0 0 0 0 0
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+4.564 -0.269 0.187 -0.014 -0.68 0
+-0.269 7.193 -0.006 -0.028 -0.126 0
+0.187 -0.006 2.452 0.014 0.013 0
+-0.014 -0.028 0.014 4.424 -0.081 0
+-0.68 -0.126 0.013 -0.081 5.107 0
+0 0 0 0 0 13.251
+
+ Mean vectors and covariance matrices before rotation --- 2th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+4.397 0 0 0 0 0
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+5.63 0.29 1.139 -0.178 -0.888 0
+0.29 2.289 0.136 0.002 0.056 0
+1.139 0.136 3.664 -0.005 0.165 0
+-0.178 0.002 -0.005 8.483 -0.096 0
+-0.888 0.056 0.165 -0.096 6.516 0
+0 0 0 0 0 13.251
+
+ Final eigenvalues for each cluster >> 
+ (rows correspond to clusters)
+13.251 7.222 5.572 4.431 4.082 2.433
+13.251 8.496 7.141 5.627 3.059 2.259
+
+ *************************************************
+
+ ********************* rotation ******************
+
+ *************************************************
+
+
+ The orthogonal matrix Q >>
+0.168 0.237 0.518 0.536 0.6
+0.237 -0.952 0.105 0.109 0.122
+0.518 0.105 -0.77 0.238 0.266
+0.536 0.109 0.238 -0.754 0.276
+0.6 0.122 0.266 0.276 -0.692
+
+ Mean vectors and covariance matrices after rotation --- 1th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+-0.737 0 -2.359 -2.276 -2.637 -1.043
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+4.092 0 -0.267 0.67 -0.584 -0.658
+0 13.251 0 0 0 0
+-0.267 0 4.291 0.22 -0.056 -0.214
+0.67 0 0.22 2.972 0.411 -0.038
+-0.584 0 -0.056 0.411 5.33 -0.257
+-0.658 0 -0.214 -0.038 -0.257 7.055
+
+ Mean vectors and covariance matrices after rotation --- 2th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+0.737 0 2.359 2.276 2.637 1.043
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+6.153 0 -1.187 0.944 -0.145 0.751
+0 13.251 0 0 0 0
+-1.187 0 7.446 -0.648 -0.396 -0.04
+0.944 0 -0.648 3.388 0.275 0.253
+-0.145 0 -0.396 0.275 7.141 0.389
+0.751 0 -0.04 0.253 0.389 2.454
+
+ Final eigenvalues for each cluster >> 
+ (rows correspond to clusters)
+13.251 7.222 5.572 4.431 4.082 2.433
+13.251 8.496 7.141 5.627 3.059 2.259
+
+ theoretical Separation index matrix >>
+
+-1 0.01
+0.01 -1
+
+ theoretical projection directions >>
+
+**** cluster 1 and 2
+0.144 0 0.495 0.703 0.437 0.222
+
+ empirical Separation index matrix (alpha= 0.05 )>>
+
+-1 0.048
+0.048 -1
+
+ empirical projection directions >>
+
+**** cluster 1 and 2
+-0.285 0.069 -0.567 -0.575 -0.474 -0.193

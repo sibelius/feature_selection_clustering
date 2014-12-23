@@ -1,0 +1,14 @@
+LICORS - kmeans++
+useful - plot.kmeans
+mclust - adjustedRandIndex (ARI), classError (CER)
+clv - clv.Jaccard
+
+
+e1071 - svm, naiveBayes
+
+wine dataset - naiveBayes
+glass dataset - 1-knn
+
+MASS - crabs
+
+

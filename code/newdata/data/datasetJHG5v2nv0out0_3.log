@@ -1,0 +1,235 @@
+
+ Log information for the data set datasetJHG5v2nv0out0_3.dat >>
+
+ alpha = 0.05 sepVal = 0.34
+
+ Number of clusters >> 5
+
+ cluster sizes >>
+50 50 50 50 50
+
+ Number of data points >> 250
+
+ Number of dimensions >> 2
+
+ Number of noisy dimensions >> 0
+
+ noisy variables >>
+0
+
+ Number of outliers >> 0
+
+ initial eigenvalues for each cluster >> 
+ (rows correspond to clusters)
+1.299 2.981
+6.882 1.703
+6.376 9.748
+5.004 7.573
+3.602 9.355
+
+ Mean vectors and covariance matrices before rotation --- 1th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+-10.688 0
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+8.308 -2.985
+-2.985 7.163
+
+ Mean vectors and covariance matrices before rotation --- 2th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+10.688 0
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+6.842 0.451
+0.451 1.743
+
+ Mean vectors and covariance matrices before rotation --- 3th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+0 18.513
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+7.037 -1.145
+-1.145 9.677
+
+ Mean vectors and covariance matrices before rotation --- 4th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+32.065 0
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+5.018 -0.191
+-0.191 7.559
+
+ Mean vectors and covariance matrices before rotation --- 5th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+21.377 18.513
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+8.214 -2.293
+-2.293 4.743
+
+ Final eigenvalues for each cluster >> 
+ (rows correspond to clusters)
+10.775 4.696
+6.882 1.703
+10.105 6.61
+7.573 5.004
+9.355 3.602
+
+ *************************************************
+
+ ********************* rotation ******************
+
+ *************************************************
+
+
+ The orthogonal matrix Q >>
+0.919 0.395
+0.395 -0.919
+
+ Mean vectors and covariance matrices after rotation --- 1th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+-9.819 -4.222
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+5.963 2.469
+2.469 9.508
+
+ Mean vectors and covariance matrices after rotation --- 2th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+9.819 4.222
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+6.374 1.54
+1.54 2.211
+
+ Mean vectors and covariance matrices after rotation --- 3th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+7.314 -17.007
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+6.618 -0.17
+-0.17 10.097
+
+ Mean vectors and covariance matrices after rotation --- 4th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+29.457 12.667
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+5.276 -0.791
+-0.791 7.301
+
+ Mean vectors and covariance matrices after rotation --- 5th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+26.952 -8.562
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+6.008 2.837
+2.837 6.949
+
+ Final eigenvalues for each cluster >> 
+ (rows correspond to clusters)
+10.775 4.696
+6.882 1.703
+10.105 6.61
+7.573 5.004
+9.355 3.602
+
+ theoretical Separation index matrix >>
+
+-1 0.34 0.374 0.626 0.624
+0.34 -1 0.399 0.384 0.505
+0.374 0.399 -1 0.565 0.34
+0.626 0.384 0.565 -1 0.34
+0.624 0.505 0.34 0.34 -1
+
+ theoretical projection directions >>
+
+**** cluster 1 and 2
+0.992 0.128
+
+**** cluster 1 and 3
+0.874 -0.486
+
+**** cluster 1 and 4
+0.978 0.208
+
+**** cluster 1 and 5
+0.93 -0.368
+
+**** cluster 2 and 3
+0.073 -0.997
+
+**** cluster 2 and 4
+0.91 0.415
+
+**** cluster 2 and 5
+0.659 -0.752
+
+**** cluster 3 and 4
+0.74 0.672
+
+**** cluster 3 and 5
+0.985 0.173
+
+**** cluster 4 and 5
+0.041 -0.999
+
+ empirical Separation index matrix (alpha= 0.05 )>>
+
+-1 0.517 0.36 0.366 0.667
+0.517 -1 0.329 0.428 0.375
+0.36 0.329 -1 0.559 0.634
+0.366 0.428 0.559 -1 0.413
+0.667 0.375 0.634 0.413 -1
+
+ empirical projection directions >>
+
+**** cluster 1 and 2
+-0.632 0.775
+
+**** cluster 1 and 3
+-0.243 0.97
+
+**** cluster 1 and 4
+-0.976 -0.219
+
+**** cluster 1 and 5
+-0.922 0.388
+
+**** cluster 2 and 3
+0.959 0.284
+
+**** cluster 2 and 4
+0.023 -1
+
+**** cluster 2 and 5
+-1 0.006
+
+**** cluster 3 and 4
+-0.706 -0.709
+
+**** cluster 3 and 5
+-1 0.008
+
+**** cluster 4 and 5
+-0.892 0.451

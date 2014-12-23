@@ -1,0 +1,235 @@
+
+ Log information for the data set datasetJLG5v2nv0out0_1.dat >>
+
+ alpha = 0.05 sepVal = 0.01
+
+ Number of clusters >> 5
+
+ cluster sizes >>
+50 50 50 50 50
+
+ Number of data points >> 250
+
+ Number of dimensions >> 2
+
+ Number of noisy dimensions >> 0
+
+ noisy variables >>
+0
+
+ Number of outliers >> 0
+
+ initial eigenvalues for each cluster >> 
+ (rows correspond to clusters)
+5.227 3.342
+7.357 8.857
+4.562 6.767
+6.587 9.487
+4.112 8.76
+
+ Mean vectors and covariance matrices before rotation --- 1th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+-5.749 0
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+7.863 0.979
+0.979 5.631
+
+ Mean vectors and covariance matrices before rotation --- 2th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+5.749 0
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+8.705 -0.452
+-0.452 7.508
+
+ Mean vectors and covariance matrices before rotation --- 3th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+0 9.958
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+6.56 -1.282
+-1.282 7.536
+
+ Mean vectors and covariance matrices before rotation --- 4th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+17.247 0
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+8.073 -1.449
+-1.449 8.001
+
+ Mean vectors and covariance matrices before rotation --- 5th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+11.498 9.958
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+10.521 -1.594
+-1.594 5.635
+
+ Final eigenvalues for each cluster >> 
+ (rows correspond to clusters)
+8.231 5.263
+8.857 7.357
+8.42 5.676
+9.487 6.587
+10.995 5.161
+
+ *************************************************
+
+ ********************* rotation ******************
+
+ *************************************************
+
+
+ The orthogonal matrix Q >>
+0.114 0.993
+0.993 -0.114
+
+ Mean vectors and covariance matrices after rotation --- 1th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+-0.657 -5.711
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+5.883 1.207
+1.207 7.612
+
+ Mean vectors and covariance matrices after rotation --- 2th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+0.657 5.711
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+7.421 -0.305
+-0.305 8.792
+
+ Mean vectors and covariance matrices after rotation --- 3th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+9.892 -1.139
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+7.232 -1.359
+-1.359 6.864
+
+ Mean vectors and covariance matrices after rotation --- 4th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+1.972 17.134
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+7.672 -1.403
+-1.403 8.401
+
+ Mean vectors and covariance matrices after rotation --- 5th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+11.207 10.284
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+5.337 -0.997
+-0.997 10.819
+
+ Final eigenvalues for each cluster >> 
+ (rows correspond to clusters)
+8.231 5.263
+8.857 7.357
+8.42 5.676
+9.487 6.587
+10.995 5.161
+
+ theoretical Separation index matrix >>
+
+-1 0.01 0.066 0.351 0.297
+0.01 -1 0.01 0.01 0.076
+0.066 0.01 -1 0.271 0.014
+0.351 0.01 0.271 -1 0.01
+0.297 0.076 0.014 0.01 -1
+
+ theoretical projection directions >>
+
+**** cluster 1 and 2
+0.071 0.997
+
+**** cluster 1 and 3
+0.926 0.377
+
+**** cluster 1 and 4
+0.148 0.989
+
+**** cluster 1 and 5
+0.776 0.631
+
+**** cluster 2 and 3
+0.843 -0.538
+
+**** cluster 2 and 4
+0.236 0.972
+
+**** cluster 2 and 5
+0.948 0.317
+
+**** cluster 3 and 4
+-0.269 0.963
+
+**** cluster 3 and 5
+0.318 0.948
+
+**** cluster 4 and 5
+0.926 -0.377
+
+ empirical Separation index matrix (alpha= 0.05 )>>
+
+-1 0.074 0.299 0.028 0.408
+0.074 -1 0.056 0.037 0.31
+0.299 0.056 -1 0.052 -0.025
+0.028 0.037 0.052 -1 0.023
+0.408 0.31 -0.025 0.023 -1
+
+ empirical projection directions >>
+
+**** cluster 1 and 2
+0.876 0.482
+
+**** cluster 1 and 3
+0.721 0.693
+
+**** cluster 1 and 4
+-0.136 0.991
+
+**** cluster 1 and 5
+0.156 0.988
+
+**** cluster 2 and 3
+0.346 0.938
+
+**** cluster 2 and 4
+-0.841 0.541
+
+**** cluster 2 and 5
+-0.073 0.997
+
+**** cluster 3 and 4
+-0.96 -0.28
+
+**** cluster 3 and 5
+-0.958 0.287
+
+**** cluster 4 and 5
+0.171 0.985

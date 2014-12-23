@@ -1,0 +1,235 @@
+
+ Log information for the data set datasetJMG5v2nv0out0_2.dat >>
+
+ alpha = 0.05 sepVal = 0.21
+
+ Number of clusters >> 5
+
+ cluster sizes >>
+50 50 50 50 50
+
+ Number of data points >> 250
+
+ Number of dimensions >> 2
+
+ Number of noisy dimensions >> 0
+
+ noisy variables >>
+0
+
+ Number of outliers >> 0
+
+ initial eigenvalues for each cluster >> 
+ (rows correspond to clusters)
+1.613 9.343
+3.966 2.97
+2.697 9.189
+3.971 6.327
+7.455 7.906
+
+ Mean vectors and covariance matrices before rotation --- 1th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+-8.468 0
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+19.259 -9.937
+-9.937 11.159
+
+ Mean vectors and covariance matrices before rotation --- 2th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+8.468 0
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+3.315 0.474
+0.474 3.621
+
+ Mean vectors and covariance matrices before rotation --- 3th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+0 14.668
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+8.471 -2.036
+-2.036 3.415
+
+ Mean vectors and covariance matrices before rotation --- 4th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+25.405 0
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+5.706 -0.104
+-0.104 9.085
+
+ Mean vectors and covariance matrices before rotation --- 5th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+16.937 14.668
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+7.873 -0.118
+-0.118 7.489
+
+ Final eigenvalues for each cluster >> 
+ (rows correspond to clusters)
+25.94 4.479
+3.966 2.97
+9.189 2.697
+9.088 5.703
+7.906 7.455
+
+ *************************************************
+
+ ********************* rotation ******************
+
+ *************************************************
+
+
+ The orthogonal matrix Q >>
+0.285 0.959
+0.959 -0.285
+
+ Mean vectors and covariance matrices after rotation --- 1th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+-8.117 -2.414
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+24.031 -6.109
+-6.109 6.387
+
+ Mean vectors and covariance matrices after rotation --- 2th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+8.117 2.414
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+3.081 0.313
+0.313 3.855
+
+ Mean vectors and covariance matrices after rotation --- 3th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+-4.181 14.059
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+9.173 -0.324
+-0.324 2.713
+
+ Mean vectors and covariance matrices after rotation --- 4th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+24.351 7.242
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+6.038 -1.01
+-1.01 8.753
+
+ Mean vectors and covariance matrices after rotation --- 5th cluster >>
+
+ mean vector (mu'=Q*mu)>>
+12.053 18.887
+
+ covariance matrix (Sigma'=Q*Sigma*t(Q))>>
+
+7.906 0.006
+0.006 7.455
+
+ Final eigenvalues for each cluster >> 
+ (rows correspond to clusters)
+25.94 4.479
+3.966 2.97
+9.189 2.697
+9.088 5.703
+7.906 7.455
+
+ theoretical Separation index matrix >>
+
+-1 0.21 0.384 0.467 0.483
+0.21 -1 0.35 0.345 0.293
+0.384 0.35 -1 0.458 0.21
+0.467 0.345 0.458 -1 0.21
+0.483 0.293 0.21 0.21 -1
+
+ theoretical projection directions >>
+
+**** cluster 1 and 2
+0.702 0.712
+
+**** cluster 1 and 3
+0.232 0.973
+
+**** cluster 1 and 4
+0.765 0.644
+
+**** cluster 1 and 5
+0.443 0.897
+
+**** cluster 2 and 3
+-0.515 0.857
+
+**** cluster 2 and 4
+0.969 0.249
+
+**** cluster 2 and 5
+0.212 0.977
+
+**** cluster 3 and 4
+0.983 -0.184
+
+**** cluster 3 and 5
+0.884 0.468
+
+**** cluster 4 and 5
+-0.78 0.626
+
+ empirical Separation index matrix (alpha= 0.05 )>>
+
+-1 0.309 0.363 0.158 0.318
+0.309 -1 0.476 0.401 0.252
+0.363 0.476 -1 0.47 0.174
+0.158 0.401 0.47 -1 0.514
+0.318 0.252 0.174 0.514 -1
+
+ empirical projection directions >>
+
+**** cluster 1 and 2
+-0.569 0.822
+
+**** cluster 1 and 3
+0.936 0.351
+
+**** cluster 1 and 4
+-0.696 -0.718
+
+**** cluster 1 and 5
+0.288 0.958
+
+**** cluster 2 and 3
+1 -0.015
+
+**** cluster 2 and 4
+-0.169 -0.986
+
+**** cluster 2 and 5
+0.828 0.56
+
+**** cluster 3 and 4
+-0.761 -0.649
+
+**** cluster 3 and 5
+-0.706 0.709
+
+**** cluster 4 and 5
+0.357 0.934
