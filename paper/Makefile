@@ -1,11 +1,11 @@
 all:
-	pdflatex paper.tex
+	pdflatex fsc.tex
 	rm -rf *.aux *.log *.bak *.out *.bbl *.blg	
 bib:
-	bibtex paper
-	pdflatex paper.tex
-	pdflatex paper.tex
-	open paper.pdf
+	bibtex fsc
+	pdflatex fsc.tex
+	pdflatex fsc.tex
+	open fsc.pdf
 	rm -rf *.aux *.log *.bak *.out *.bbl *.blg	
 clean:
 	rm -rf *.aux *.log *.bak *.out *.bbl *.blg

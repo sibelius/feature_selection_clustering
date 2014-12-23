@@ -1,2 +1,0 @@
-weka.attributeSelection.ssf.distanceFunctions.DistanceFunctionForSSF=weka.gui.GenericObjectEditor
-weka.attributeSelection.ssf.validationCriteria.ValidationCriteria=weka.gui.GenericObjectEditor
